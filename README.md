@@ -1,5 +1,22 @@
-# blend-file-auto-renamer
-"Blender addon untuk otomatisasi rename dan save file .blend dengan versi yang bertambah."
+# Blend File Auto Renamer - Irgalle  
+
+Blender addon untuk otomatisasi rename dan save file .blend dengan versi yang bertambah.  
+
+## 🔧 Fitur  
+- Secara otomatis menambahkan _versioning_ pada nama file .blend  
+- Panel UI di `View3D > Sidebar > AutoRenamer`  
+- Bisa memilih folder dan menerapkan rename ke semua file .blend  
+
+## 📦 Instalasi  
+1. **Download ZIP** dari [releases](https://github.com/username/blend-file-auto-renamer/releases).  
+2. Di Blender, buka `Edit > Preferences > Add-ons > Install`.  
+3. Pilih file ZIP dan klik **Install Add-on**.  
+4. Aktifkan addon dari daftar yang muncul.  
+
+## 📜 Lisensi  
+Lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.  
+
+-----------------------------------------------------
 
 Jika kamu menggunakannya di dalam blender, cukup sekali klik maka file blendermu akan ter-save as dengan tambahan suffix "_RENDER_V001"
 
